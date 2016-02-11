@@ -1,0 +1,19 @@
+{
+  "name": "videojs-logobrand",
+  "version": "1.0.0",
+  "description": "videojs-logobrand\r =================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlicanC/videojs-logobrand.git"
+  },
+  "author": "Alican Çubukçuoğlu <alicancubukcuoglu@gmail.com> (https://github.com/AlicanC)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlicanC/videojs-logobrand/issues"
+  },
+  "homepage": "https://github.com/AlicanC/videojs-logobrand#readme"
+}
